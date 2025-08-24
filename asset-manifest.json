@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d17588b.css",
-    "main.js": "/static/js/main.17931c87.js",
+    "main.js": "/static/js/main.8dbeba60.js",
     "static/media/blog.png": "/static/media/blog.754b13eac925d7c7d172.png",
     "static/media/hiking.png": "/static/media/hiking.8f5a81e2069fa297279a.png",
     "static/media/marketing.png": "/static/media/marketing.00794e275e76dcfc1803.png",
@@ -11,7 +11,7 @@
     "static/media/jawa.jpg": "/static/media/jawa.7a27eaba95c08bcc4e53.jpg",
     "static/media/pizzaku.jpg": "/static/media/pizzaku.32dbe4fe69df4e4f651e.jpg",
     "static/media/a-prefect-servicenow-expert.png": "/static/media/a-prefect-servicenow-expert.25eabdfcab07dc4ba8d7.png",
-    "static/media/Sachin_CV.pdf": "/static/media/Sachin_CV.789343255c42b473a7bb.pdf",
+    "static/media/Sachin_CV.pdf": "/static/media/Sachin_CV.02863557e2048cfd4434.pdf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1f6bad931d92a0a52c45.woff2",
     "static/media/company.png": "/static/media/company.193a37e0707314930feb.png",
@@ -24,10 +24,10 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
     "index.html": "/index.html",
     "main.8d17588b.css.map": "/static/css/main.8d17588b.css.map",
-    "main.17931c87.js.map": "/static/js/main.17931c87.js.map"
+    "main.8dbeba60.js.map": "/static/js/main.8dbeba60.js.map"
   },
   "entrypoints": [
     "static/css/main.8d17588b.css",
-    "static/js/main.17931c87.js"
+    "static/js/main.8dbeba60.js"
   ]
 }
